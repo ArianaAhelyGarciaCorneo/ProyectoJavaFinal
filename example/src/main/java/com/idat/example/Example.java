@@ -12,6 +12,6 @@ public class Example {
 
     public static void main(String[] args) {
         System.out.println("Hello World!");
-        System.out.println("solo es un ejemplo");
+        System.out.println("solo es un ejemplo nu");
     }
 }
